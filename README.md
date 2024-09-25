@@ -1,12 +1,12 @@
-# pass.in
+## GerenciaParticipantes (Repositório Back-end)
 
-O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**. 
+## NLW-Unite da Rocketseat Node e React
+ Desenvolvimento de uma aplicação para o gerenciamento de Participantes
+  - Front-end em ReactJS com aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, consumo de API Node.js, uso de URL states.
+  - Back-end em Node.js com aplicação dos conceitos de API REST, utilizando TypeScript, Fastify como framework, integração do Prisma ORM + SQLite e Zod para validação de dados.
 
-A ferramenta permite que o organizador cadastre um evento e abra uma página pública de inscrição.
-
-Os participantes inscritos podem emitir uma credencial para check-in no dia do evento.
-
-O sistema fará um scan da credencial do participante para permitir a entrada no evento.
+## pass.in
+O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**. A ferramenta permite que o organizador cadastre um evento e abra uma página pública de inscrição. Os participantes inscritos podem emitir uma credencial para check-in no dia do evento. O sistema fará um scan da credencial do participante para permitir a entrada no evento.
 
 ## Requisitos
 
